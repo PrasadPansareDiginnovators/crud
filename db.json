@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "6751",
+      "name": "ram sanap",
+      "username": "ram",
+      "email": "ram@.com",
+      "phone": "753952",
+      "website": "google.com"
+    },
+    {
+      "id": "da81",
+      "name": "vivek bhaskar",
+      "username": "vivek",
+      "email": "vivek@gmail.com",
+      "phone": "987456321",
+      "website": "vivek.com"
+    }
+  ]
+}
