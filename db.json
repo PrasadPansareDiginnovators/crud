@@ -2,10 +2,10 @@
   "users": [
     {
       "id": "6751",
-      "name": "ram sanap",
-      "username": "ram",
-      "email": "ram@.com",
-      "phone": "753952",
+      "name": "sham sanap",
+      "username": "sham",
+      "email": "sham@.com",
+      "phone": "75395211",
       "website": "google.com"
     },
     {
@@ -15,6 +15,14 @@
       "email": "vivek@gmail.com",
       "phone": "987456321",
       "website": "vivek.com"
+    },
+    {
+      "id": "e82e",
+      "name": "Prasad Pansare",
+      "username": "Prasad",
+      "email": "prasadpansare@gmail.com",
+      "phone": "9890631916",
+      "website": "prasad.com"
     }
   ]
 }
